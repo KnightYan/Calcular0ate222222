@@ -1,0 +1,1 @@
+Pequena brincadeira de calcular quantos 0 existem do numero 0 até o numero 222.222
