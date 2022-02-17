@@ -1,0 +1,11 @@
+C:\Users\Yan_C\source\repos\Calcular0ate222222\Calcular0ate222222\bin\Debug\Calcular0ate222222.exe.config
+C:\Users\Yan_C\source\repos\Calcular0ate222222\Calcular0ate222222\bin\Debug\Calcular0ate222222.exe
+C:\Users\Yan_C\source\repos\Calcular0ate222222\Calcular0ate222222\bin\Debug\Calcular0ate222222.pdb
+C:\Users\Yan_C\source\repos\Calcular0ate222222\Calcular0ate222222\obj\Debug\Calcular0ate222222.csproj.AssemblyReference.cache
+C:\Users\Yan_C\source\repos\Calcular0ate222222\Calcular0ate222222\obj\Debug\Calcular0ate222222.csproj.SuggestedBindingRedirects.cache
+C:\Users\Yan_C\source\repos\Calcular0ate222222\Calcular0ate222222\obj\Debug\Calcular0ate222222.Form.resources
+C:\Users\Yan_C\source\repos\Calcular0ate222222\Calcular0ate222222\obj\Debug\Calcular0ate222222.Properties.Resources.resources
+C:\Users\Yan_C\source\repos\Calcular0ate222222\Calcular0ate222222\obj\Debug\Calcular0ate222222.csproj.GenerateResource.cache
+C:\Users\Yan_C\source\repos\Calcular0ate222222\Calcular0ate222222\obj\Debug\Calcular0ate222222.csproj.CoreCompileInputs.cache
+C:\Users\Yan_C\source\repos\Calcular0ate222222\Calcular0ate222222\obj\Debug\Calcular0ate222222.exe
+C:\Users\Yan_C\source\repos\Calcular0ate222222\Calcular0ate222222\obj\Debug\Calcular0ate222222.pdb
